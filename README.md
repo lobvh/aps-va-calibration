@@ -11,7 +11,7 @@ Note: The `combined-features.csv` was too large for GitHub (166MB). If the link 
 
 ## Introduction
 
-This project became merely an "extension" on top of "Week 8" of [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) course. Since I'm following it in a self-pace mode I strive after each "week" to give it a bit of personal sprinkle, expanding on the introduced concepts to reinforce my understanding and acquire new knowledge in the process. This "week", I've strayed a bit, eager to learn the fundamentals of Conformal Prediction. 
+This project became merely an "extension" on top of "Week 8" of [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) course. Since I'm following it in a self-paced mode I strive after each "week" to give it a bit of personal sprinkle, expanding on the introduced concepts to reinforce my understanding and acquire new knowledge in the process. This "week", I've strayed a bit, eager to learn the fundamentals of Conformal Prediction. 
 
 ---
 
