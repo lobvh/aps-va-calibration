@@ -1,5 +1,13 @@
 # aps-va-calibration
 
+### Datasets
+
+1) [clothing-dataset-small](https://github.com/alexeygrigorev/clothing-dataset-small)
+2) [combined-features.csv](https://drive.google.com/file/d/1vwWEFgez0SqkYrF5L4SRfob9qm1TC5Cn/view?usp=drive_link) 
+
+Note: The `combined-features.csv` was too large for GitHub (166MB). If the link becomes broken feel free to contact me via [Linkedin](https://www.linkedin.com/in/gorandijak/). 
+
+
 ### Introduction
 
 This project became merely an "extension" on top of "Week 8" of [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) course. Since I'm following it in a self-pace mode I strive after each "week" to give it a bit of personal sprinkle, expanding on the introduced concepts to reinforce my understanding and acquire new knowledge in the process. This "week", I've strayed a bit, eager to learn the foundamentals of Conformal Prediction. 
